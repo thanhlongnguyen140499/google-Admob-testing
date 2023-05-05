@@ -1,0 +1,8 @@
+{
+  "name": "GoogleAdmobsProject",
+  "displayName": "GoogleAdmobsProject",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7385058090428760~5626512332",
+    "ios_app_id": "ca-app-pub-7385058090428760~9451821676"
+  }
+}
